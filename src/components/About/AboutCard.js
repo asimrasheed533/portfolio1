@@ -12,8 +12,8 @@ function AboutCard() {
             from <span className="purple"> Fasilabad pakistan</span>
             <br /> I am a final year student pursuing an Integrated Computing.
             <br />
-            Additionally, I am currently employed as a software developer at
-            Juspay.
+            Additionally, I am currently working as a software developer at
+            Samundri.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!
