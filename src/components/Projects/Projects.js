@@ -23,7 +23,7 @@ function Projects() {
               imgPath={food}
               isBlog={false}
               title="Food Recipe App"
-              description="TasteBuds, the ultimate online food recipe app, offers a vast collection of mouthwatering recipes from various cuisines. Enjoy smart search, step-by-step instructions, and personalized recommendations. Plan meals, access cooking tips, and join a vibrant culinary community. Available on Web for a delightful cooking experience anytime, anywhere."
+              description="Welcome to our Food Recipe App! Unleash your inner chef with a variety of delicious dishes, from breakfast delights to gourmet dinners and desserts. Enjoy step-by-step guidance, ingredient lists, and cooking tips for success in the kitchen. Download now and create memorable dining moments with your loved ones!"
               demoLink="https://food-sevary.web.app/"
               ghLink="https://github.com/asimrasheed533"
             />
@@ -33,8 +33,10 @@ function Projects() {
             <ProjectCard
               imgPath={prism}
               isBlog={false}
-              title="Plant AI"
+              title="Prism Web"
               description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
+              demoLink="https://prism-webapp.web.app/"
+              ghLink="https://github.com/asimrasheed533"
             />
           </Col>
 
@@ -42,9 +44,8 @@ function Projects() {
             <ProjectCard
               imgPath={fun}
               isBlog={false}
-              title="Face Recognition and Emotion Detection"
-              description="Trained a CNN classifier using 'FER-2013 dataset' with Keras and tensorflow backened. The classifier sucessfully predicted the various types of emotions of human. And the highest accuracy obtained with the model was 60.1%.
-              Then used Open-CV to detect the face in an image and then pass the face to the classifer to predict the emotion of a person."
+              title="Fundamental Textile"
+              description="Welcome to Fundamental Textiles - Your premier destination for quality textiles. Explore our wide range of meticulously crafted fabrics, perfect for various applications. From elegant home furnishings to durable industrial materials, we offer the finest selection. With a commitment to excellence, we cater to your textile needs with reliability and style. Browse our collections and experience the art of textiles at Fundamental Textiles."
               ghLink="https://github.com/asimrasheed533"
               demoLink="https://fundamental-textile.web.app/"
             />
