@@ -3,7 +3,7 @@ import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
 import food from "../../Assets/Projects/food.png";
-import prism from "../../Assets/Projects/prism.png";
+import electro from "../../Assets/Projects/electro.png";
 import fun from "../../Assets/Projects/fun.png";
 
 function Projects() {
@@ -31,11 +31,11 @@ function Projects() {
 
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={prism}
+              imgPath={electro}
               isBlog={false}
-              title="Prism Web"
-              description="Used the plant disease dataset from Kaggle and trained a image classifer model using 'PyTorch' framework using CNN and Transfer Learning with 38 classes of various plant leaves. The model was successfully able to detect diseased and healthy leaves of 14 unique plants. I was able to achieve an accuracy of 98% by using Resnet34 pretrained model."
-              demoLink="https://prism-webapp.web.app/"
+              title="Electro Mart Ecommerce "
+              description="Discover a tech-lover's paradise at our e-commerce store. Explore cutting-edge gadgets, high-performance electronics, and innovative accessories. From smart wearables to DIY kits, find everything to elevate your tech game. Enjoy secure shopping, expert customer service, and a seamless experience. Upgrade your lifestyle with our curated electronic portfolio today."
+              demoLink="https://electromart-web.web.app/"
               ghLink="https://github.com/asimrasheed533"
             />
           </Col>
