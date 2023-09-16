@@ -50,6 +50,16 @@ function Projects() {
               demoLink="https://fundamental-textile.web.app/"
             />
           </Col>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={furniture}
+              isBlog={false}
+              title="Furniture Store"
+              description="Create your dream home with our online furniture store! Explore a curated selection of stylish and affordable furniture for every room. Shop hassle-free, enjoy convenient delivery options, and transform your space effortlessly. Discover quality craftsmanship, unique designs, and exceptional customer service. Elevate your home décor with us today!"
+              ghLink="https://github.com/asimrasheed533"
+              demoLink="https://asmughal-furniture.web.app/"
+            />
+          </Col>
         </Row>
       </Container>
     </Container>
