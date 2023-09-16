@@ -5,6 +5,7 @@ import Particle from "../Particle";
 import food from "../../Assets/Projects/food.png";
 import electro from "../../Assets/Projects/electro.png";
 import fun from "../../Assets/Projects/fun.png";
+import furniture from "../../Assets/Projects/furniture.png";
 
 function Projects() {
   return (
